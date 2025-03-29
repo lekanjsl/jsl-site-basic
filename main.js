@@ -1,7 +1,7 @@
 // Gallery loading functionality
 async function loadGallery() {
     try {
-        const response = await fetch('data/gallery.json');
+        const response = await fetch('data/portco-data.json');
         const data = await response.json();
         
         const galleryContainer = document.getElementById('gallery-container');
