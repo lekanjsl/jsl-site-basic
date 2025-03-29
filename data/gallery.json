@@ -1,0 +1,177 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "iconUrl": "/images/portcos/logo-bicyclehealth.gif",
+            "sector": "Telehealth, Care Delivery",
+            "partners": "Questa Capital, Frist Cressey",
+            "description": "Bicycle Health provides confidential, effective, and timely treatments for opioid use disorders.",
+            "stage": "Series C",
+            "link": "https://bicyclehealth.com"
+        },
+        {
+            "id": 2,
+            "iconUrl": "/images/portcos/logo-biobot.png",
+            "sector": "Public Health",
+            "partners": "Valor Equity",
+            "description": "Biobot is a wastewater intelligence platform, enabling healthcare workers, policy makers, and others to get accurate population-level data on disease, drugs, and chemicals in a community.",
+            "stage": "Series A+",
+            "link": "https://biobot.io"
+        },
+        {
+            "id": 3,
+            "iconUrl": "/images/portcos/logo-eso.png",
+            "sector": "Healthcare IT",
+            "partners": "Vista Equity",
+            "description": "ESO Solutions is the largest provider of electronic health records and integrated software to emergency services. Additionally, the company owns the largest data set on health outcomes in emergency services in the United States.",
+            "stage": "Buyout",
+            "link": "https://esosolutions.com"
+        },
+        {
+            "id": 4,
+            "iconUrl": "/images/portcos/logo-fleet.jpg",
+            "sector": "Healthcare Data",
+            "partners": "(None)",
+            "description": "Fleet aims to create the largest and broadest clinical dataset in the world via a unique data integration engine, with an initial focus on public health."
+,
+            "stage": "Pre-seed",
+            "link": "https://www.fleethealth.com/"
+        },
+        {
+            "id": 5,
+            "iconUrl": "/images/portcos/logo-grouper.jpg",
+            "sector": "Social Determinants of Health",
+            "partners": "Steve Shulman, Ken Goulet",
+            "description": "Grouper is a platform to solve loneliness among the Medicare population by matching patients to clubs that engage them and reduce the likelihood of poor health outcomes.",
+            "stage": "Recap",
+            "link": "https://hellogrouper.com/"
+        },
+        {
+            "id": 6,
+            "iconUrl": "/images/portcos/logo-headlight.jpg",
+            "sector": "Telehealth, Mental Health",
+            "partners": "Matrix Partners",
+            "description": "Headlight Health is a leading platform for online mental health therapy, leveraging cutting edge AI to drive efficiency and outcomes.",
+            "stage": "Series A",
+            "link": "https://headlight.health/"
+        },
+        {
+            "id": 7,
+            "iconUrl": "/images/portcos/logo-linkmobile.svg",
+            "sector": "Healthcare IT",
+            "partners": "8VC, Valor Equity",
+            "description": "LinkMobile is a mobile virtual network operator with a focus on Medicaid and Medicare patients. It provides phones and data plans to its target population as well as care coordination and patient outreach services.",
+            "stage": "NewCo",
+            "link": "https://www.linkmobile.org/"
+        },
+        {
+            "id": 8,
+            "iconUrl": "/images/portcos/logo-navina.jpg",
+            "sector": "Healthcare IT",
+            "partners": "Privia Health",
+            "description": "Navina empowers clinicians to deliver personalized, proactive care with clinical insights they can trust, right in the moment of care.",
+            "stage": "Series A+",
+            "link": "https://www.navina.ai/"
+        },
+        {
+            "id": 9,
+            "iconUrl": "/images/portcos/logo-networkbio.png",
+            "sector": "Life Sciences Data",
+            "partners": "Breyer Capital, Founders Fund, Section32",
+            "description": "Network Bio facilitates precision medicine through the creation of research-grade data assets in concert with healthcare institutions.",
+            "stage": "Series A",
+            "link": "https://www.network.bio/"
+        },
+        {
+            "id": 10,
+            "iconUrl": "/images/portcos/logo-niramedical.svg",
+            "sector": "Care Delivery",
+            "partners": "Silversmith, Transformation Capital, SV Health",
+            "description": "Nira is building the future of neurological care, by bringin the country's top physicians together in a national practice platform.",
+            "stage": "NewCo",
+            "link": "https://www.niramedical.com/"
+        },
+        {
+            "id": 11,
+            "iconUrl": "/images/portcos/logo-onmed.jpeg",
+            "sector": "Care Delivery",
+            "partners": "Ken Goulet, literacapital",
+            "description": "OnMed makes a clinic-in-a-box, with a commitment to improve the quality of life and sense of well-being in our communities by increasing access to healthcare, anywhere.",
+            "stage": "Recap",
+            "link": "https://www.onmed.com/"
+        },
+        {
+            "id": 12,
+            "iconUrl": "/images/portcos/logo-partssource.png",
+            "sector": "Healthcare IT",
+            "partners": "Bain Capital",
+            "description": "PartsSource is the premier marketplace for advanced hospital parts, modules, warranties, and service.",
+            "stage": "Buyout",
+            "link": "https://www.partssource.com/"
+        },
+        {
+            "id": 13,
+            "iconUrl": "/images/portcos/logo-rippl.jpg",
+            "sector": "Care Delivery",
+            "partners": "ARCH, General Catalyst",
+            "description": "Leveraging a value-based approach, disruptive technology, and a relentless focus on empowering and enabling its clinicians, Rippl is pioneering a new care model to dramatically expand access to high quality, wraparound behavioral healthcare for seniors, their families and caregivers.",
+            "stage": "Series A",
+            "link": "https://ripplcare.com/"
+        },
+        {
+            "id": 14,
+            "iconUrl": "/images/portcos/logo-slope.png",
+            "sector": "Life Sciences IT",
+            "partners": "NEA, Breyer Capital",
+            "description": "Slope is a global provider of biospecimen lifecycle software, data, and services for complex clinical trials.",
+            "stage": "Series A+",
+            "link": "https://www.slopeclinical.com/"
+        },
+        {
+            "id": 15,
+            "iconUrl": "/images/portcos/logo-stealth.png",
+            "sector": "Care Delivery",
+            "partners": "To Be Announced",
+            "description": "To Be Announced",
+            "stage": "Seed",
+            "link": "https://jslhealth.com/"
+        },
+        {
+            "id": 16,
+            "iconUrl": "/images/portcos/logo-tigerconnect.jpg",
+            "sector": "Healthcare IT",
+            "partners": "Vista Equity, HealthQuest",
+            "description": "TigerConnect is the modern communications platform for hospitals and healthcare.",
+            "stage": "Buyout",
+            "link": "https://tigerconnect.com/"
+        },
+        {
+            "id": 17,
+            "iconUrl": "/images/portcos/logo-tuesdayhealth.png",
+            "sector": "Care Delivery",
+            "partners": "Welsh Carson, MGB",
+            "description": "Tuesday Health is transforming the path of serious and end-of-life illness through compassionate and personalized supportive care.",
+            "stage": "NewCo",
+            "link": "https://www.tuesdayhealth.com/"
+        },
+        {
+            "id": 18,
+            "iconUrl": "/images/portcos/logo-xaira",
+            "sector": "Life Sciences IT",
+            "partners": "ARCH Venture Partners, Sequoia Capital, Foresite Capital, NEA, Lightspeed Venture Partners, Menlo Ventures, Lux Capital, SVAngel, Eli Lilly",
+            "description": "Xaira is pioneering the discovery and development of life-changing medicines through the transformative power of artificial intelligence.",
+            "stage": "Series A",
+            "link": "https://www.xaira.com/"
+        },
+        {
+            "id": 19,
+            "iconUrl": "/images/portcos/logo-lifestance.jpg",
+            "sector": "Telehealth, Mental Health",
+            "partners": "TPG, Summit Partners, Silversmith",
+            "description": "LifeStance is the largest provider of mental telehealth in the US.",
+            "stage": "Buyout",
+            "link": "https://lifestance.com/",
+            "exited": true
+        }
+    ]
+}

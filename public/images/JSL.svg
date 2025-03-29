@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 330.3 261.5">
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+      }
+
+      .st1 {
+        fill: #2c6a8e;
+      }
+
+      .st2 {
+        fill: #1b1dd1;
+      }
+
+      .st3 {
+        fill: #241f20;
+      }
+
+      .st4 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="st0" x="123.6" y="118.1" width="81" height="25.7"/>
+    </clipPath>
+  </defs>
+  <g>
+    <path class="st3" d="M151.1,105.4V37.9h26.3v22.1l26,12.1v-34.2c0-14.2-11.8-25.1-26-25.1h-26.3c-14.5,0-26.3,10.9-26.3,25.1v67.5h26.3Z"/>
+    <path class="st3" d="M177.4,157.6v67.6h-26.3v-21.8l-26.3-12.1v33.9c0,14.2,11.8,25.1,26.3,25.1h26.3c14.2,0,26-11.2,26-25.1v-67.6h-26Z"/>
+  </g>
+  <g>
+    <rect id="SVGID" class="st1" x="123.6" y="118.1" width="81" height="25.7"/>
+    <g class="st4">
+      <rect class="st2" x="123.6" y="118.1" width="81" height="25.7"/>
+    </g>
+  </g>
+  <rect class="st3" x="236.5" y="12.7" width="26.3" height="209"/>
+  <rect class="st2" x="236.6" y="221.7" width="81" height="25.7"/>
+  <path class="st3" d="M65.2,200.1c0,14.2-11.8,25.1-26.3,25.1h-7l-12.1,25.1h19c29.1,0,52.7-22.3,52.7-50.2V38.4h-26.3v161.7Z"/>
+  <rect class="st2" x="10.4" y="12.7" width="81" height="25.7"/>
+</svg>

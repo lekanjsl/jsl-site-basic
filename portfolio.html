@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Handcrafted Gallery - Portfolio</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Raleway:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">
+                <img src="/images/JSL.svg" alt="JSL Health Capital" class="logo-image">
+            </div>
+            <button class="menu-button" aria-label="Toggle menu" aria-expanded="false">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+        </nav>
+    </header>
+
+    <div class="nav-overlay"></div>
+    <div class="nav-panel">
+        <ul class="nav-links">
+            <li><a href="/">Home</a></li>
+            <li><a href="/team.html">Team</a></li>
+            <li><a href="/portfolio.html">Portfolio</a></li>
+            <li><a href="/help.html">Contact</a></li>
+        </ul>
+    </div>
+
+    <main>
+        <section class="hero">
+            <h1>Portfolio</h1>
+            <p>Explore our innovative healthcare solutions</p>
+        </section>
+
+        <section class="portfolio">
+            <div class="gallery-grid" id="gallery-container">
+                <!-- Gallery items will be inserted here by JavaScript -->
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 JSL Health Capital. All rights reserved.</p>
+    </footer>
+
+    <script type="module" src="/main.js"></script>
+</body>
+</html>
