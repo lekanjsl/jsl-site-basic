@@ -38,9 +38,14 @@ h1, h2, h3, h4, h5, h6 {
     align-items: center;
 }
 
+.logo a {
+    height: 100%;
+}
+
 .logo-image {
     height: 100%;
     width: auto;
+    display: block;
 }
 
 .hero-logo {
@@ -197,6 +202,7 @@ section {
     text-align: left;
     padding: 4rem 2rem;
     background: linear-gradient(135deg, #1b1dd2 0%, #1b1dd2 60%, #2a2cff 100%);
+    position: relative;
     color: white;
     min-height: 66vh;
     display: flex;
@@ -249,7 +255,6 @@ section {
 .hero-line:nth-child(3) {
     animation: fadeInUp 0.8s ease 0.6s forwards;
     margin-left: 4rem;
-    font-style: italic;
 }
 
 @keyframes fadeInUp {
@@ -593,14 +598,8 @@ footer {
         padding: 0 2rem;
     }
 
-    .logo a {
-        height: 100%;
-    }
-
     .logo-image {
-        height: 100%;
-        width: auto;
-        display: block;
+        height: 30px;
     }
 
     .hero-logo {
