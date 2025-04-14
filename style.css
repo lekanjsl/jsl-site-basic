@@ -593,8 +593,14 @@ footer {
         padding: 0 2rem;
     }
 
+    .logo a {
+        height: 100%;
+    }
+
     .logo-image {
-        height: 30px;
+        height: 100%;
+        width: auto;
+        display: block;
     }
 
     .hero-logo {
