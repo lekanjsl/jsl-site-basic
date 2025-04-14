@@ -60,6 +60,7 @@ header {
     top: 0;
     z-index: 1200;
     height: var(--header-height);
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2);
 }
 
 nav {
@@ -71,8 +72,28 @@ nav {
     padding: 0 2rem;
 }
 
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 2rem;
+}
+
+.nav-links a {
+    color: var(--primary-color);
+    text-decoration: none;
+    font-size: 1.1rem;
+    transition: color 0.3s ease;
+    display: block;
+    padding: 0.5rem 0;
+}
+
+.nav-links a:hover {
+    color: var(--accent-color);
+}
+
 /* Menu Button */
 .menu-button {
+    display: none;
     background: none;
     border: none;
     color: var(--primary-color);
@@ -81,7 +102,9 @@ nav {
     z-index: 2000;
     width: 40px;
     height: 40px;
-    position: relative;
+    position: fixed;
+    top: 16px;
+    right: 16px;
 }
 
 /* Hamburger Icon */
@@ -112,6 +135,7 @@ nav {
 .menu-button.open span:nth-child(1) {
     transform: translateY(7px) rotate(45deg);
     z-index: 2000;
+    background-color: white;
 }
 
 .menu-button.open span:nth-child(2) {
@@ -121,6 +145,7 @@ nav {
 .menu-button.open span:nth-child(3) {
     transform: translateY(-7px) rotate(-45deg);
     z-index: 2000;
+    background-color: white;
 }
 
 /* Navigation Panel */
@@ -134,6 +159,7 @@ nav {
     padding: 6rem 2rem 2rem;
     transition: right 0.3s ease;
     z-index: 1500;
+    box-shadow: -6px 0 4px rgba(0, 0, 0, 0.4);
 }
 
 .nav-panel.open {
@@ -158,26 +184,6 @@ nav {
     visibility: visible;
 }
 
-.nav-links {
-    list-style: none;
-    display: flex;
-    flex-direction: column;
-    gap: 2rem;
-}
-
-.nav-links a {
-    color: white;
-    text-decoration: none;
-    font-size: 1.5rem;
-    transition: color 0.3s ease;
-    display: block;
-    padding: 0.5rem 0;
-}
-
-.nav-links a:hover {
-    color: var(--accent-color);
-}
-
 /* Main Content */
 main {
     margin-top: var(--header-height);
@@ -196,6 +202,8 @@ section {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+    position: relative;
 }
 
 .hero-content {
@@ -226,7 +234,7 @@ section {
 
 .hero-line:nth-child(3) {
     animation: fadeInUp 0.8s ease 0.6s forwards;
-    margin-left: 4rem;
+    margin-left: 8rem;
 }
 
 @keyframes fadeInUp {
@@ -500,6 +508,30 @@ footer {
 }
 
 /* Responsive Design */
+@media (max-width: 1200px) {
+    .menu-button {
+        display: block;
+    }
+
+    .nav-panel {
+        display: block;
+    }
+
+    .nav-links {
+        display: none;
+    }
+
+    .nav-panel .nav-links {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .nav-panel .nav-links a {
+        color: white;
+        font-size: 1.5rem;
+    }
+}
+
 @media (max-width: 768px) {
     .nav-panel {
         width: var(--nav-width-mobile);
