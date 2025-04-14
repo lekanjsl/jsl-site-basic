@@ -196,7 +196,7 @@ section {
 .hero {
     text-align: left;
     padding: 4rem 2rem;
-    background: #1b1dd2;
+    background: linear-gradient(135deg, #1b1dd2 0%, #1b1dd2 60%, #2a2cff 100%);
     color: white;
     min-height: 66vh;
     display: flex;
@@ -204,12 +204,26 @@ section {
     justify-content: center;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
     position: relative;
+    overflow: hidden;
+}
+
+.hero::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(45deg, transparent 45%, rgba(255, 255, 255, 0.1) 45%, rgba(255, 255, 255, 0.1) 55%, transparent 55%);
+    background-size: 30px 30px;
+    pointer-events: none;
 }
 
 .hero-content {
     max-width: var(--max-width);
     margin: 0 auto;
     padding: 0 2rem;
+    position: relative;
 }
 
 .hero h1 {
