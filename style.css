@@ -8,6 +8,7 @@
     --nav-width-mobile: 100%;
     --header-height: 72px;
     --exited-border-color: #808080;
+    --max-width: 1200px;
 }
 
 * {
@@ -62,11 +63,12 @@ header {
 }
 
 nav {
-    max-width: 1200px;
+    max-width: var(--max-width);
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 0 2rem;
 }
 
 /* Menu Button */
@@ -187,19 +189,19 @@ section {
 
 .hero {
     text-align: left;
-    padding: 0 2rem;
+    padding: 4rem 2rem;
     background: #1b1dd2;
     color: white;
-    min-height: calc(100vh - var(--header-height));
+    min-height: 66vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
 }
 
 .hero-content {
-    max-width: 1200px;
-    margin: 0;
-    padding: 0 4rem;
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: 0 2rem;
 }
 
 .hero h1 {
@@ -249,9 +251,9 @@ section {
 }
 
 .info-block {
-    max-width: 1200px;
-    margin: 0;
-    padding: 0 4rem;
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: 0 2rem;
     text-align: left;
 }
 
@@ -268,7 +270,7 @@ section {
 
 /* Portfolio Section */
 .portfolio {
-    max-width: 1200px;
+    max-width: var(--max-width);
     margin: 0 auto;
     padding: 4rem 2rem;
 }
@@ -398,7 +400,7 @@ section {
 
 /* Team Section */
 .team {
-    max-width: 1200px;
+    max-width: var(--max-width);
     margin: 0 auto;
     padding: 4rem 2rem;
 }
