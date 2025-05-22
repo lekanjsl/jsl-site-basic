@@ -172,6 +172,15 @@
             "stage": "Buyout",
             "link": "https://lifestance.com/",
             "exited": true
+        },
+        {
+            "id": 20,
+            "iconUrl": "images/portcos/logo-generalmedicine.svg",
+            "sector": "Care Delivery",
+            "partners": "Matrix Partners, BoxGroup, Founder Collective, VXI Capital",
+            "description": "General Medicine is building the online storefront for effective and efficient one stop shop medical care.",
+            "stage": "Seed",
+            "link": "https://www.generalmedicine.co/"
         }
     ]
 }
