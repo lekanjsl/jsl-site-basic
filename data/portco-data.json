@@ -38,6 +38,15 @@
             "link": "https://www.fleethealth.com/"
         },
         {
+            "id": 20,
+            "iconUrl": "images/portcos/logo-generalmedicine.svg",
+            "sector": "Care Delivery",
+            "partners": "Matrix Partners, BoxGroup, Founder Collective, VXI Capital",
+            "description": "General Medicine is building the one stop shop online storefront for effective and efficient medical care, giving patients agency and control over their care.",
+            "stage": "Seed",
+            "link": "https://www.generalmedicine.co/"
+        },
+        {
             "id": 5,
             "iconUrl": "images/portcos/logo-grouper.jpg",
             "sector": "Social Determinants of Health",
@@ -172,15 +181,6 @@
             "stage": "Buyout",
             "link": "https://lifestance.com/",
             "exited": true
-        },
-        {
-            "id": 20,
-            "iconUrl": "images/portcos/logo-generalmedicine.svg",
-            "sector": "Care Delivery",
-            "partners": "Matrix Partners, BoxGroup, Founder Collective, VXI Capital",
-            "description": "General Medicine is building the online storefront for effective and efficient one stop shop medical care.",
-            "stage": "Seed",
-            "link": "https://www.generalmedicine.co/"
         }
     ]
 }
