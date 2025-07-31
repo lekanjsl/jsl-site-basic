@@ -1,3 +1,10 @@
+async function insertNav() {
+    const nav = document.querySelector('body');
+    if (nav) {
+        await loadHTMLFromFile('nav.html', nav);
+    }
+}
+
 async function insertFooter() {
     const footer = document.querySelector('footer');
     if (footer) {
@@ -14,7 +21,27 @@ async function loadGallery() {
         const galleryContainer = document.getElementById('gallery-container');
         if (!galleryContainer) return; // Only run on portfolio page
         
-        data.items.forEach(item => {
+        // Sort the data: move exited items to the end, then sort by name
+        const sortedItems = data.items.sort((a, b) => {
+            // First, check if either item is exited
+            const aExited = a.exited === true;
+            const bExited = b.exited === true;
+            
+            // If one is exited and the other isn't, move exited to the end
+            if (aExited && !bExited) {
+                return 1; // a goes after b
+            }
+            if (!aExited && bExited) {
+                return -1; // a goes before b
+            }
+            
+            // If both have the same exit status, sort by name alphabetically
+            return (a.name || '').localeCompare(b.name || '');
+        });
+        
+        
+        
+        sortedItems.forEach(item => {
             if (!item.sector) return; // Skip empty items
             
             const galleryItem = document.createElement('div');
@@ -53,7 +80,8 @@ async function loadHTMLFromFile(filePath, targetElement) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
         const htmlContent = await response.text();
-        targetElement.innerHTML = htmlContent;
+        targetElement.insertAdjacentHTML('afterbegin', htmlContent);
+        
     } catch (error) {
         console.error('Error loading HTML:', error);
         targetElement.innerHTML = '<p>Error loading content</p>';
@@ -80,8 +108,9 @@ function setupMenu() {
 }
 
 // Initialize all functionality when DOM is loaded
-document.addEventListener('DOMContentLoaded', () => {
-    insertFooter();
+document.addEventListener('DOMContentLoaded', async () => {
+    await insertNav();
+    await insertFooter();
     loadGallery();
     setupMenu();
 });
