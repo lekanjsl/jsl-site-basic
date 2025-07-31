@@ -1,3 +1,10 @@
+async function insertFooter() {
+    const footer = document.querySelector('footer');
+    if (footer) {
+        await loadHTMLFromFile('footer.html', footer);
+    }
+}
+
 // Gallery loading functionality
 async function loadGallery() {
     try {
@@ -38,6 +45,21 @@ async function loadGallery() {
     }
 }
 
+// Function to load HTML from another file
+async function loadHTMLFromFile(filePath, targetElement) {
+    try {
+        const response = await fetch(filePath);
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        const htmlContent = await response.text();
+        targetElement.innerHTML = htmlContent;
+    } catch (error) {
+        console.error('Error loading HTML:', error);
+        targetElement.innerHTML = '<p>Error loading content</p>';
+    }
+}
+
 // Menu functionality
 function setupMenu() {
     const menuButton = document.querySelector('.menu-button');
@@ -59,6 +81,7 @@ function setupMenu() {
 
 // Initialize all functionality when DOM is loaded
 document.addEventListener('DOMContentLoaded', () => {
+    insertFooter();
     loadGallery();
     setupMenu();
 });
