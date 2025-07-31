@@ -2,6 +2,7 @@
     "items": [
         {
             "id": 1,
+            "name": "Bicycle Health",
             "iconUrl": "images/portcos/logo-bicyclehealth.gif",
             "sector": "Telehealth, Care Delivery",
             "partners": "Questa Capital, Frist Cressey",
@@ -11,6 +12,7 @@
         },
         {
             "id": 2,
+            "name": "Biobot",
             "iconUrl": "images/portcos/logo-biobot.png",
             "sector": "Public Health",
             "partners": "Valor Equity",
@@ -20,6 +22,7 @@
         },
         {
             "id": 3,
+            "name": "ESO Solutions",
             "iconUrl": "images/portcos/logo-eso.png",
             "sector": "Healthcare IT",
             "partners": "Vista Equity",
@@ -29,6 +32,7 @@
         },
         {
             "id": 4,
+            "name": "Fleet Health",
             "iconUrl": "images/portcos/logo-fleet.jpg",
             "sector": "Healthcare Data",
             "partners": "(None)",
@@ -39,6 +43,7 @@
         },
         {
             "id": 20,
+            "name": "General Medicine",
             "iconUrl": "images/portcos/logo-generalmedicine.svg",
             "sector": "Care Delivery",
             "partners": "Matrix Partners, BoxGroup, Founder Collective, VXI Capital",
@@ -48,6 +53,7 @@
         },
         {
             "id": 5,
+            "name": "Grouper",
             "iconUrl": "images/portcos/logo-grouper.jpg",
             "sector": "Social Determinants of Health",
             "partners": "Steve Shulman, Ken Goulet",
@@ -57,6 +63,7 @@
         },
         {
             "id": 6,
+            "name": "Headlight",
             "iconUrl": "images/portcos/logo-headlight.jpg",
             "sector": "Telehealth, Mental Health",
             "partners": "Matrix Partners",
@@ -66,6 +73,7 @@
         },
         {
             "id": 7,
+            "name": "LinkMobile",
             "iconUrl": "images/portcos/logo-linkmobile.svg",
             "sector": "Healthcare IT",
             "partners": "8VC, Valor Equity",
@@ -75,6 +83,7 @@
         },
         {
             "id": 8,
+            "name": "Navina",
             "iconUrl": "images/portcos/logo-navina.jpg",
             "sector": "Healthcare IT",
             "partners": "Privia Health",
@@ -84,6 +93,7 @@
         },
         {
             "id": 9,
+            "name": "Network Bio",
             "iconUrl": "images/portcos/logo-networkbio.png",
             "sector": "Life Sciences Data",
             "partners": "Breyer Capital, Founders Fund, Section32",
@@ -93,6 +103,7 @@
         },
         {
             "id": 10,
+            "name": "Nira Medical",
             "iconUrl": "images/portcos/logo-niramedical.svg",
             "sector": "Care Delivery",
             "partners": "Silversmith, Transformation Capital, SV Health",
@@ -102,6 +113,7 @@
         },
         {
             "id": 11,
+            "name": "OnMed",
             "iconUrl": "images/portcos/logo-onmed.jpeg",
             "sector": "Care Delivery",
             "partners": "Ken Goulet, literacapital",
@@ -111,6 +123,7 @@
         },
         {
             "id": 12,
+            "name": "PartsSource",
             "iconUrl": "images/portcos/logo-partssource.png",
             "sector": "Healthcare IT",
             "partners": "Bain Capital",
@@ -120,6 +133,7 @@
         },
         {
             "id": 13,
+            "name": "Rippl",
             "iconUrl": "images/portcos/logo-rippl.jpg",
             "sector": "Care Delivery",
             "partners": "ARCH, General Catalyst",
@@ -129,6 +143,7 @@
         },
         {
             "id": 14,
+            "name": "Slope",
             "iconUrl": "images/portcos/logo-slope.png",
             "sector": "Life Sciences IT",
             "partners": "NEA, Breyer Capital",
@@ -138,6 +153,7 @@
         },
         {
             "id": 16,
+            "name": "TigerConnect",
             "iconUrl": "images/portcos/logo-tigerconnect.jpg",
             "sector": "Healthcare IT",
             "partners": "Vista Equity, HealthQuest",
@@ -147,6 +163,7 @@
         },
         {
             "id": 17,
+            "name": "Tuesday Health",
             "iconUrl": "images/portcos/logo-tuesdayhealth.png",
             "sector": "Care Delivery",
             "partners": "Welsh Carson, MGB",
@@ -156,6 +173,7 @@
         },
         {
             "id": 18,
+            "name": "Xaira",
             "iconUrl": "images/portcos/logo-xaira.png",
             "sector": "Life Sciences IT",
             "partners": "ARCH Venture Partners, Sequoia Capital, Foresite Capital, NEA, Lightspeed Venture Partners, Menlo Ventures, Lux Capital, SVAngel",
@@ -165,6 +183,7 @@
         },
         {
             "id": 19,
+            "name": "LifeStance",
             "iconUrl": "images/portcos/logo-lifestance.jpg",
             "sector": "Telehealth, Mental Health",
             "partners": "TPG, Summit Partners, Silversmith",
@@ -175,6 +194,7 @@
         },
         {
             "id": 20,
+            "name": "Synfini",
             "iconUrl": "images/portcos/logo-synfini.svg",
             "sector": "Life Sciences",
             "partners": "Foothill Ventures, WERU INVESTMENT, Ferocity Capital, Trust Ventures",
