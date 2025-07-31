@@ -156,7 +156,7 @@
         },
         {
             "id": 18,
-            "iconUrl": "images/portcos/logo-xaira",
+            "iconUrl": "images/portcos/logo-xaira.png",
             "sector": "Life Sciences IT",
             "partners": "ARCH Venture Partners, Sequoia Capital, Foresite Capital, NEA, Lightspeed Venture Partners, Menlo Ventures, Lux Capital, SVAngel, Eli Lilly",
             "description": "Xaira is pioneering the discovery and development of life-changing medicines through the transformative power of artificial intelligence.",
@@ -172,6 +172,15 @@
             "stage": "Buyout",
             "link": "https://lifestance.com/",
             "exited": true
+        },
+        {
+            "id": 20,
+            "iconUrl": "images/portcos/logo-synfini.svg",
+            "sector": "Life Sciences",
+            "partners": "Foothill Ventures, WERU INVESTMENT, Ferocity Capital, Trust Ventures",
+            "description": "Synfini dramatically improves the quality and reduces the time and cost of translating drug targets, hits and virtual designs to physically validated small molecule drug candidates.",
+            "stage": "Seed",
+            "link": "https://https://synfini.com/"
         }
     ]
 }
