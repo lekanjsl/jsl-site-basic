@@ -201,6 +201,16 @@
             "description": "Synfini dramatically improves the quality and reduces the time and cost of translating drug targets, hits and virtual designs to physically validated small molecule drug candidates.",
             "stage": "Seed",
             "link": "https://synfini.com/"
+        },
+        {
+            "id": 21,
+            "name": "Connie Health",
+            "iconUrl": "images/portcos/conniehealth.jpg",
+            "sector": "Payer",
+            "partners": "HealthQuest",
+            "description": "Connie Health is building the premiere Medicare navigation platform.",
+            "stage": "Series B",
+            "link": "https://www.conniehealth.com/"
         }
     ]
 }
