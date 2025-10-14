@@ -211,6 +211,16 @@
             "description": "Connie Health is building the premiere Medicare navigation platform.",
             "stage": "Series B",
             "link": "https://www.conniehealth.com/"
+        },
+        {
+            "id": 22,
+            "name": "Decart",
+            "iconUrl": "images/portcos/logo-decart.svg",
+            "sector": "AI Lab",
+            "partners": "Sequoia Capital, Benchmark, Zeev Ventures, Aleph Ventures",
+            "description": "Decart is building the frontier AI lab focused on consumer experiences.",
+            "stage": "Series A+",
+            "link": "https://decart.ai/"
         }
     ]
 }
