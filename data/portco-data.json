@@ -221,6 +221,36 @@
             "description": "Decart is building the frontier AI lab focused on consumer experiences.",
             "stage": "Series A+",
             "link": "https://decart.ai/"
+        },
+        {
+            "id": 23,
+             "name": "Radial",
+            "iconUrl": "images/portcos/logo-radial.png",
+            "sector": "Care Delivery",
+            "partners": "General Catalyst, Solari Capital, Founder Collective, Emerson Collective, Scrub Capital",
+            "description": "Radial is bringing proven breakthrough psychiatric treatments across the country.",
+            "stage": "Series A",
+            "link": "https://www.meetradial.com/"
+        },
+        {
+            "id": 24,
+             "name": "Precision Neuroscience",
+            "iconUrl": "images/portcos/logo-precision.jpg",
+            "sector": "Brain-computer Interface",
+            "partners": "Stanley Druckenmiller, General Equity Partners, Steadview Capital, B Capital, Alumni Ventures, Telus Holdings",
+            "description": "Precision is a brain-computer interface (BCI) company developing a minimally invasive neural implant.",
+            "stage": "Series C",
+            "link": "https://precisionneuro.io/"
+        },
+        {
+            "id": 25,
+             "name": "RIS Rx",
+            "iconUrl": "images/portcos/logo-risrx.jpg",
+            "sector": "Life Sciences IT",
+            "partners": "Summit Partners",
+            "description": "RIS Rx identifies and prevents gross-to-net leakage in pharmaceutical copay assistance programs.",
+            "stage": "Growth",
+            "link": "https://risrx.com/"
         }
     ]
 }
