@@ -246,11 +246,21 @@
             "id": 25,
              "name": "RIS Rx",
             "iconUrl": "images/portcos/logo-risrx.jpg",
-            "sector": "Life Sciences IT",
+            "sector": "Life Sciences",
             "partners": "Summit Partners",
             "description": "RIS Rx identifies and prevents gross-to-net leakage in pharmaceutical copay assistance programs.",
             "stage": "Growth",
             "link": "https://risrx.com/"
+        },
+        {
+            "id": 26,
+             "name": "Beacon Biosignals",
+            "iconUrl": "images/portcos/logo-beacon.png",
+            "sector": "Life Sciences IT",
+            "partners": " Innoviva Specialty Therapeutics, GV, General Catalyst, S32, Catalio Capital Management, Casdin Capital, Logos Capital, Samsung Next, Kicker Ventures, Palo Santo",
+            "description": "Beacon is the scientific and commercial AI platform to decode sleep and power precision medicine for CNS disease.",
+            "stage": "Growth",
+            "link": "https://beacon.bio/"
         }
     ]
 }
