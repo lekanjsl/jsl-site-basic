@@ -257,7 +257,7 @@
              "name": "Beacon Biosignals",
             "iconUrl": "images/portcos/logo-beacon.png",
             "sector": "Life Sciences",
-            "partners": " Innoviva Specialty Therapeutics, GV, General Catalyst, S32, Catalio Capital Management, Casdin Capital, Logos Capital, Samsung Next, Kicker Ventures, Palo Santo",
+            "partners": " Innoviva, GV, General Catalyst, S32, Catalio, Casdin, Logos, Samsung Next, Kicker, Palo Santo",
             "description": "Beacon is the scientific and commercial AI platform to decode sleep and power precision medicine for CNS disease.",
             "stage": "Series B",
             "link": "https://beacon.bio/"
