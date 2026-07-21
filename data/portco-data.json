@@ -8,6 +8,7 @@
             "partners": "Questa Capital, Frist Cressey",
             "description": "Bicycle Health provides confidential, effective, and timely treatments for opioid use disorders.",
             "stage": "Series C",
+            "fund": ["1","1q"],
             "link": "https://bicyclehealth.com"
         },
         {
@@ -18,6 +19,7 @@
             "partners": "Valor Equity",
             "description": "Biobot is a wastewater intelligence platform, enabling healthcare workers, policy makers, and others to get accurate population-level data on disease, drugs, and chemicals in a community.",
             "stage": "Series A+",
+            "fund": ["1","1q"],
             "link": "https://biobot.io"
         },
         {
@@ -28,6 +30,7 @@
             "partners": "Vista Equity",
             "description": "ESO Solutions is the largest provider of electronic health records and integrated software to emergency services. Additionally, the company owns the largest data set on health outcomes in emergency services in the United States.",
             "stage": "Buyout",
+            "fund": ["1"],
             "link": "https://esosolutions.com"
         },
         {
@@ -39,6 +42,7 @@
             "description": "Fleet aims to create the largest and broadest clinical dataset in the world via a unique data integration engine, with an initial focus on public health."
 ,
             "stage": "Pre-seed",
+            "fund": ["1","1q"],
             "link": "https://www.fleethealth.com/"
         },
         {
@@ -49,6 +53,7 @@
             "partners": "Matrix Partners, BoxGroup, Founder Collective, VXI Capital",
             "description": "General Medicine is building the one stop shop online storefront for effective and efficient medical care, giving patients agency and control over their care.",
             "stage": "Seed",
+            "fund": ["1","1q"],
             "link": "https://www.generalmedicine.co/"
         },
         {
@@ -59,6 +64,7 @@
             "partners": "Steve Shulman, Ken Goulet",
             "description": "Grouper is a platform to solve loneliness among the Medicare population by matching patients to clubs that engage them and reduce the likelihood of poor health outcomes.",
             "stage": "Recap",
+            "fund": ["1","1q"],
             "link": "https://hellogrouper.com/"
         },
         {
@@ -69,6 +75,7 @@
             "partners": "Matrix Partners",
             "description": "Headlight Health is a leading platform for online mental health therapy, leveraging cutting edge AI to drive efficiency and outcomes.",
             "stage": "Series A",
+            "fund": ["1","1q"],
             "link": "https://headlight.health/"
         },
         {
@@ -79,6 +86,7 @@
             "partners": "8VC, Valor Equity",
             "description": "LinkMobile is a mobile virtual network operator with a focus on Medicaid and Medicare patients. It provides phones and data plans to its target population as well as care coordination and patient outreach services.",
             "stage": "NewCo",
+            "fund": ["1","1q"],
             "link": "https://www.linkmobile.org/"
         },
         {
@@ -89,6 +97,7 @@
             "partners": "Privia Health",
             "description": "Navina empowers clinicians to deliver personalized, proactive care with clinical insights they can trust, right in the moment of care.",
             "stage": "Series A+",
+            "fund": ["1","1q"],
             "link": "https://www.navina.ai/"
         },
         {
@@ -99,6 +108,7 @@
             "partners": "Breyer Capital, Founders Fund, Section32",
             "description": "Network Bio facilitates precision medicine through the creation of research-grade data assets in concert with healthcare institutions.",
             "stage": "Series A",
+            "fund": ["1","1q"],
             "link": "https://www.network.bio/"
         },
         {
@@ -109,6 +119,7 @@
             "partners": "Silversmith, Transformation Capital, SV Health",
             "description": "Nira is building the future of neurological care, by bringin the country's top physicians together in a national practice platform.",
             "stage": "NewCo",
+            "fund": ["1","1q"],
             "link": "https://www.niramedical.com/"
         },
         {
@@ -119,6 +130,7 @@
             "partners": "Ken Goulet, literacapital",
             "description": "OnMed makes a clinic-in-a-box, with a commitment to improve the quality of life and sense of well-being in our communities by increasing access to healthcare, anywhere.",
             "stage": "Recap",
+            "fund": ["1","1q"],
             "link": "https://www.onmed.com/"
         },
         {
@@ -129,6 +141,7 @@
             "partners": "Bain Capital",
             "description": "PartsSource is the premier marketplace for advanced hospital parts, modules, warranties, and service.",
             "stage": "Buyout",
+            "fund": ["1"],
             "link": "https://www.partssource.com/"
         },
         {
@@ -139,6 +152,7 @@
             "partners": "ARCH, General Catalyst",
             "description": "Leveraging a value-based approach, disruptive technology, and a relentless focus on empowering and enabling its clinicians, Rippl is pioneering a new care model to dramatically expand access to high quality, wraparound behavioral healthcare for seniors, their families and caregivers.",
             "stage": "Series A",
+            "fund": ["1","1q"],
             "link": "https://ripplcare.com/"
         },
         {
@@ -149,6 +163,7 @@
             "partners": "NEA, Breyer Capital",
             "description": "Slope is a global provider of biospecimen lifecycle software, data, and services for complex clinical trials.",
             "stage": "Series A+",
+            "fund": ["1","1q"],
             "link": "https://www.slopeclinical.com/"
         },
         {
@@ -159,6 +174,7 @@
             "partners": "Vista Equity, HealthQuest",
             "description": "TigerConnect is the modern communications platform for hospitals and healthcare.",
             "stage": "Buyout",
+            "fund": ["1"],
             "link": "https://tigerconnect.com/"
         },
         {
@@ -169,6 +185,7 @@
             "partners": "Welsh Carson, MGB",
             "description": "Tuesday Health is transforming the path of serious and end-of-life illness through compassionate and personalized supportive care.",
             "stage": "NewCo",
+            "fund": ["1","1q"],
             "link": "https://www.tuesdayhealth.com/"
         },
         {
@@ -179,6 +196,7 @@
             "partners": "ARCH, Sequoia, Foresite Capital, NEA, Lightspeed, Menlo Ventures, Lux, SVAngel",
             "description": "Xaira is pioneering the discovery and development of life-changing medicines through the transformative power of artificial intelligence.",
             "stage": "Series A",
+            "fund": ["1","1q"],
             "link": "https://www.xaira.com/"
         },
         {
@@ -189,6 +207,7 @@
             "partners": "TPG, Summit Partners, Silversmith",
             "description": "LifeStance is the largest provider of mental telehealth in the US.",
             "stage": "Buyout",
+            "fund": ["1"],
             "link": "https://lifestance.com/",
             "exited": true
         },
@@ -200,6 +219,7 @@
             "partners": "Foothill Ventures, WERU INVESTMENT, Ferocity Capital, Trust Ventures",
             "description": "Synfini dramatically improves the quality and reduces the time and cost of translating drug targets, hits and virtual designs to physically validated small molecule drug candidates.",
             "stage": "Seed",
+            "fund": ["1","1q"],
             "link": "https://synfini.com/"
         },
         {
@@ -210,6 +230,7 @@
             "partners": "HealthQuest",
             "description": "Connie Health is building the premiere Medicare navigation platform.",
             "stage": "Series B",
+            "fund": ["1","1q"],
             "link": "https://www.conniehealth.com/"
         },
         {
@@ -220,57 +241,74 @@
             "partners": "Sequoia Capital, Benchmark, Zeev Ventures, Aleph Ventures",
             "description": "Decart is building the frontier AI lab focused on consumer experiences.",
             "stage": "Series A+",
+            "fund": ["spv"],
             "link": "https://decart.ai/"
         },
         {
             "id": 23,
-             "name": "Radial",
+            "name": "Radial",
             "iconUrl": "images/portcos/logo-radial.png",
             "sector": "Care Delivery",
             "partners": "General Catalyst, Solari Capital, Founder Collective, Emerson Collective, Scrub Capital",
             "description": "Radial is bringing proven breakthrough psychiatric treatments across the country.",
             "stage": "Series A",
+            "fund": ["2"],
             "link": "https://www.meetradial.com/"
         },
         {
             "id": 24,
-             "name": "Precision Neuroscience",
+            "name": "Precision Neuroscience",
             "iconUrl": "images/portcos/logo-precision.jpg",
             "sector": "Brain-computer Interface",
             "partners": "Duquesne, General Equity Partners, Steadview, B Capital, Alumni Ventures, Telus Holdings",
             "description": "Precision is a brain-computer interface (BCI) company developing a minimally invasive neural implant.",
             "stage": "Series C",
+            "fund": ["2"],
             "link": "https://precisionneuro.io/"
         },
         {
             "id": 25,
-             "name": "RIS Rx",
+            "name": "RIS Rx",
             "iconUrl": "images/portcos/logo-risrx.jpg",
             "sector": "Life Sciences",
             "partners": "Summit Partners",
             "description": "RIS Rx identifies and prevents gross-to-net leakage in pharmaceutical copay assistance programs.",
             "stage": "Growth",
+            "fund": ["2"],
             "link": "https://risrx.com/"
         },
         {
             "id": 26,
-             "name": "Beacon Biosignals",
+            "name": "Beacon Biosignals",
             "iconUrl": "images/portcos/logo-beacon.png",
             "sector": "Life Sciences",
             "partners": "Innoviva, GV, General Catalyst, S32, Catalio, Casdin, Logos, Samsung Next, Kicker, Palo Santo",
             "description": "Beacon is the scientific and commercial AI platform to decode sleep and power precision medicine for CNS disease.",
             "stage": "Series B",
+            "fund": ["2"],
             "link": "https://beacon.bio/"
         },
         {
             "id": 27,
-             "name": "Aiterra",
+            "name": "Aiterra",
             "iconUrl": "images/portcos/logo-aiterra.png",
             "sector": "Healthcare IT",
             "partners": "TVL Capital, Angels",
             "description": "Working towards a single ops layer for health plans, MSOs, and ACOs",
             "stage": "Pre-seed",
+            "fund": ["2"],
             "link": "https://aiterra.io/"
+        },
+        {
+            "id": 28,
+            "name": "Hologen",
+            "iconUrl": "images/portcos/logo-hologen.jpg",
+            "sector": "Life Sciences",
+            "partners": "Meridian Hill Ventures, Tomorrow VC, Averin Capital",
+            "description": "Hologen develops breakthrough technologies that deliver interventional intelligence in healthcare, improving the understanding, design, evaluation, and delivery of treatments.",
+            "stage": "Series A",
+            "fund": ["2"],
+            "link": "https://hologen.ai/"
         }
     ]
 }
